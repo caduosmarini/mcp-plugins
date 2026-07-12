@@ -1,0 +1,38 @@
+{
+  "name": "casa-finance",
+  "version": "0.1.0",
+  "description": "Acesso ao financeiro do projeto Casa pelo Codex.",
+  "author": {
+    "name": "Cadu Osmarini",
+    "url": "https://github.com/caduosmarini"
+  },
+  "homepage": "https://github.com/caduosmarini/mcp-plugins/tree/main/plugins/casa-finance",
+  "repository": "https://github.com/caduosmarini/mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "casa",
+    "finance",
+    "financeiro",
+    "mcp"
+  ],
+  "interface": {
+    "displayName": "Casa Finance",
+    "shortDescription": "Consulte e gerencie o financeiro do Casa",
+    "longDescription": "Conecte o Codex ao Finance do projeto Casa para consultar e gerenciar pessoas, contas, lancamentos, categorias, transferencias, conciliacoes e demais recursos financeiros disponiveis no MCP.",
+    "developerName": "Cadu Osmarini",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://casa.osmariniziliotto.com.br",
+    "defaultPrompt": [
+      "Mostre meu resumo financeiro no Casa",
+      "Liste os lancamentos recentes",
+      "Ajude a organizar minhas financas"
+    ],
+    "brandColor": "#286965"
+  },
+  "mcpServers": "./.mcp.json"
+}

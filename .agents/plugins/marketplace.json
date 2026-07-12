@@ -1,0 +1,20 @@
+{
+  "name": "mcp-plugins",
+  "interface": {
+    "displayName": "Plugins do Cadu"
+  },
+  "plugins": [
+    {
+      "name": "casa-finance",
+      "source": {
+        "source": "local",
+        "path": "./plugins/casa-finance"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
