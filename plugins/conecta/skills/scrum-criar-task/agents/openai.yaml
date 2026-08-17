@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criar task Scrum"
+  short_description: "Cria uma task completa no Conecta Scrum"
+  default_prompt: "Use $scrum-criar-task para criar a task solicitada no Conecta Scrum."
