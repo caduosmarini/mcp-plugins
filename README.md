@@ -21,6 +21,20 @@ Na primeira conexao, o Codex abrira o fluxo de autenticacao do Casa.
 ## Plugins disponiveis
 
 - `casa-finance`: acesso de leitura e escrita ao Finance do projeto Casa via MCP.
+- `sapiens-mcp`: consulta segura ao dicionario e banco Sapiens via MCP local com OAuth.
+
+Para usar `sapiens-mcp`, inicie antes o servidor no projeto correspondente:
+
+```bash
+cd /home/carlos/sapiens-mcp
+pnpm run start:http
+```
+
+Depois instale o plugin:
+
+```bash
+codex plugin add sapiens-mcp@mcp-plugins
+```
 
 ## Estrutura
 
@@ -28,6 +42,9 @@ Na primeira conexao, o Codex abrira o fluxo de autenticacao do Casa.
 .agents/plugins/marketplace.json
 plugins/
   casa-finance/
+    .codex-plugin/plugin.json
+    .mcp.json
+  sapiens-mcp/
     .codex-plugin/plugin.json
     .mcp.json
 ```
