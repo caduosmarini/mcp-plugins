@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sapiens-mcp": {
+      "type": "http",
+      "url": "https://sapiens-mcp.osmariniziliotto.com.br/mcp"
+    }
+  }
+}

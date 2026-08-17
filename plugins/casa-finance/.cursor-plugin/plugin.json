@@ -1,0 +1,24 @@
+{
+  "name": "casa-finance",
+  "displayName": "Casa Finance",
+  "version": "0.1.0",
+  "description": "Consulte e gerencie o financeiro do Casa.",
+  "author": {
+    "name": "Cadu Osmarini"
+  },
+  "homepage": "https://github.com/caduosmarini/mcp-plugins/tree/main/plugins/casa-finance",
+  "repository": "https://github.com/caduosmarini/mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "casa",
+    "finance",
+    "financeiro",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "casa",
+    "finance"
+  ],
+  "mcpServers": "./mcp.json"
+}

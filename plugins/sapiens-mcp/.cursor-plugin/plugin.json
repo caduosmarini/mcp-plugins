@@ -1,0 +1,25 @@
+{
+  "name": "sapiens-mcp",
+  "displayName": "Sapiens MCP",
+  "version": "0.1.1",
+  "description": "Consulte metadados e dados do Sapiens com segurança.",
+  "author": {
+    "name": "Cadu Osmarini"
+  },
+  "homepage": "https://github.com/caduosmarini/mcp-plugins/tree/main/plugins/sapiens-mcp",
+  "repository": "https://github.com/caduosmarini/mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "sapiens",
+    "senior",
+    "database",
+    "sql",
+    "mcp"
+  ],
+  "category": "productivity",
+  "tags": [
+    "sapiens",
+    "database"
+  ],
+  "mcpServers": "./mcp.json"
+}

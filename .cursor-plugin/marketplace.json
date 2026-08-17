@@ -1,0 +1,21 @@
+{
+  "name": "mcp-plugins",
+  "owner": {
+    "name": "Cadu Osmarini"
+  },
+  "metadata": {
+    "description": "Plugins MCP dos projetos de Cadu Osmarini para Cursor."
+  },
+  "plugins": [
+    {
+      "name": "casa-finance",
+      "source": "plugins/casa-finance",
+      "description": "Acesso de leitura e escrita ao Finance do projeto Casa."
+    },
+    {
+      "name": "sapiens-mcp",
+      "source": "plugins/sapiens-mcp",
+      "description": "Consulta segura ao dicionário e banco Sapiens via MCP com OAuth."
+    }
+  ]
+}
