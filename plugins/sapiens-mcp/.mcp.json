@@ -2,7 +2,7 @@
   "mcpServers": {
     "sapiens-mcp": {
       "type": "http",
-      "url": "http://127.0.0.1:3000/mcp"
+      "url": "https://sapiens-mcp.osmariniziliotto.com.br/mcp"
     }
   }
 }
