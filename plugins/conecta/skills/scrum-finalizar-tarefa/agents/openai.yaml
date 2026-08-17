@@ -1,4 +1,0 @@
-interface:
-  display_name: "Finalizar tarefa Scrum"
-  short_description: "Valida e finaliza uma task do Conecta Scrum"
-  default_prompt: "Use $scrum-finalizar-tarefa para finalizar a task informada."

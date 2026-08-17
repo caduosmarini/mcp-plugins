@@ -1,4 +1,0 @@
-interface:
-  display_name: "Iniciar tarefa Scrum"
-  short_description: "Inicia e executa uma task do Conecta Scrum"
-  default_prompt: "Use $scrum-iniciar-tarefa para iniciar e executar a task informada."
