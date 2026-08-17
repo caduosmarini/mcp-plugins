@@ -1,6 +1,6 @@
 {
   "name": "sapiens-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Consulta segura e somente leitura ao banco Sapiens pelo Codex.",
   "author": {
     "name": "Cadu Osmarini",
