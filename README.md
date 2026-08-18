@@ -21,7 +21,7 @@ Na primeira conexao, o Codex abrira o fluxo de autenticacao do Casa.
 ## Plugins disponiveis
 
 - `casa-finance`: acesso de leitura e escrita ao Finance do projeto Casa via MCP.
-- `sapiens-mcp`: consulta segura ao dicionario e banco Sapiens via MCP local com OAuth.
+- `sapiens-mcp`: consulta segura ao dicionario e banco Sapiens via MCP, com prompts de dominio e caderno de descobertas.
 
 Para usar `sapiens-mcp`, inicie antes o servidor no projeto correspondente:
 
