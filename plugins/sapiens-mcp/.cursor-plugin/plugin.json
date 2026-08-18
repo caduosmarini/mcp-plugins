@@ -1,7 +1,7 @@
 {
   "name": "sapiens-mcp",
   "displayName": "Sapiens MCP",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Consulte metadados e dados do Sapiens com segurança. Em caso de dúvida, use https://documentacao.senior.com.br",
   "author": {
     "name": "Cadu Osmarini"
