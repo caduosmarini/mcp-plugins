@@ -19,7 +19,7 @@
   "interface": {
     "displayName": "Sapiens MCP",
     "shortDescription": "Consulte metadados e dados do Sapiens com segurança",
-    "longDescription": "Conecte o Codex ao Sapiens para localizar tabelas e campos no dicionário oficial, validar consultas SQL somente leitura e, quando habilitado no servidor, executar SELECTs com controle de acesso OAuth.",
+    "longDescription": "Conecte o Codex ao Sapiens para localizar tabelas e campos no dicionário oficial, validar consultas SQL somente leitura e, quando habilitado no servidor, executar SELECTs com controle de acesso OAuth. Em caso de dúvida, consulte https://documentacao.senior.com.br",
     "developerName": "Cadu Osmarini",
     "category": "Productivity",
     "capabilities": [
