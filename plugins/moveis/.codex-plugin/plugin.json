@@ -1,0 +1,36 @@
+{
+  "name": "moveis",
+  "version": "0.1.0",
+  "description": "Projete móveis sob medida com modelos 3D, cortes, ferragens, iluminação, orçamento e site sincronizados.",
+  "author": {
+    "name": "Cadu Osmarini"
+  },
+  "repository": "https://github.com/caduosmarini/mcp-plugins",
+  "license": "MIT",
+  "keywords": [
+    "moveis",
+    "marcenaria",
+    "mdf",
+    "3d",
+    "corte",
+    "led"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Móveis",
+    "shortDescription": "Móveis sob medida, do estudo ao plano de corte",
+    "longDescription": "Projete móveis sob medida com modelos 3D, cortes, ferragens, iluminação, orçamento e site sincronizados. Distingue estudo visual de projeto liberado para fabricação e preserva as decisões em revisões.",
+    "developerName": "Cadu Osmarini",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Projete um móvel sob medida a partir destas fotos",
+      "Revise as medidas e atualize os artefatos do móvel",
+      "Inclua ferragens e iluminação no projeto"
+    ],
+    "brandColor": "#52665A"
+  }
+}

@@ -16,6 +16,11 @@
       "name": "sapiens-mcp",
       "source": "plugins/sapiens-mcp",
       "description": "Consulta segura ao dicionário e banco Sapiens via MCP com OAuth."
+    },
+    {
+      "name": "moveis",
+      "source": "plugins/moveis",
+      "description": "Projete móveis sob medida com modelos 3D, cortes, ferragens, iluminação, orçamento e site sincronizados."
     }
   ]
 }

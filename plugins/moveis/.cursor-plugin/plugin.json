@@ -1,0 +1,17 @@
+{
+  "name": "moveis",
+  "displayName": "Móveis",
+  "version": "0.1.0",
+  "description": "Projete móveis sob medida com modelos 3D, cortes, ferragens, iluminação, orçamento e site sincronizados.",
+  "author": {
+    "name": "Cadu Osmarini"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/caduosmarini/mcp-plugins",
+  "category": "productivity",
+  "keywords": [
+    "moveis",
+    "marcenaria",
+    "3d"
+  ]
+}

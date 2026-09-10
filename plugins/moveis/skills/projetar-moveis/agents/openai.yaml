@@ -1,0 +1,4 @@
+interface:
+  display_name: "Projetar móveis"
+  short_description: "Projeto de móveis, 3D, cortes, ferragens e LEDs"
+  default_prompt: "Use $projetar-moveis para desenvolver este móvel sob medida e manter os artefatos sincronizados."

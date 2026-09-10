@@ -1,0 +1,13 @@
+{
+  "units": "mm",
+  "revision": "EXEMPLO-01",
+  "status": "EXEMPLO SINTETICO DE CONTRATO; NAO FABRICAR",
+  "parts": [{"id":"P01","name":"Retangulo de demonstracao","finished":[600,280],"raw":[598,279],"thickness":18,"edges":{"L0":1,"L1":1,"D0":0,"D1":1},"rotation_allowed":false}],
+  "sheets": [{"id":"C01","size":[1000,600],"trim":10,"kerf":3.2,"placements":[{"id":"P01","x":10,"y":10,"rotated":false}]}],
+  "passes": [
+    {"id":"S01","sheet_id":"C01","type":"refilo","axis":"X","at":10},
+    {"id":"S02","sheet_id":"C01","type":"refilo","axis":"Y","at":10},
+    {"id":"S03","sheet_id":"C01","type":"faixa","axis":"Y","at":289},
+    {"id":"S04","sheet_id":"C01","type":"destopo","axis":"X","at":608}
+  ]
+}
